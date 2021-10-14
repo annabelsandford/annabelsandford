@@ -10,7 +10,7 @@
   <img align="left" alt="Anna's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/BlissfulPiercingCob-size_restricted.giff" />
+<img align="right" alt="GIF" src="https://otakuusamagazine.com/wp-content/uploads/2020/06/computer.jpg" />
 
 ### I am Annabel Sandford c:
 - A Full-Stack Developer (without depression)
