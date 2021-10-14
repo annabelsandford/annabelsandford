@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://static.wikia.nocookie.net/sailor-moon/images/3/36/Sailor_Moon_Banner.jpg/revision/latest?cb=20140206142654&path-prefix=de" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
